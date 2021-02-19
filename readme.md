@@ -1,2 +1,1 @@
-# Tiny Shields
-> Project inspired by [Shields.io](https://shields.io/)
+<h1 align="center"><pre>tiny shields</pre></h1>
